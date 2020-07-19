@@ -48,7 +48,7 @@ ul li a{
     font-weight: bold
 }
 section{
-    height: 300px;
+    height: 200px;
 }
 .sticky{
     position: fixed;
